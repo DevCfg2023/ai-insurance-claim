@@ -72,7 +72,7 @@ jupyter notebook insurance-claim.ipynb
   "summary": "Severe roof and garage damage due to storm. Estimated repair cost: ₹45,000.",
   "status": "Pending human review",
   "recommended_action": "Send adjuster on-site within 48 hours."
-}
+}```
 
 ---
 ## 📬 Contact
