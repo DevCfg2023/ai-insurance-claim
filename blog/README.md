@@ -49,6 +49,9 @@ Input Gathering
 
 🚀 QuickStart
 git clone https://github.com/DevCfg2023/ai-insurance-claim.git
+
+---
+
 ▶️ Run
 jupyter notebook insurance-claim.ipynb
 
