@@ -1,6 +1,6 @@
 # 🚀 ai-insurance-claim - Smart Insurance Claim Processor
 
-> 🤖 A multimodal AI system to automate insurance claim assessments using **gemini-2.0-flash**, **Whisper**, **OpenCV**, and **SQLite**.
+> 🤖 A multimodal AI system to automate insurance claim assessments using **gemini-2.0-flash**, **OpenCV**, and **SQLite**.
 
 ---
 
