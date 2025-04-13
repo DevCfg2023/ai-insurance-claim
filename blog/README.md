@@ -71,8 +71,8 @@ jupyter notebook insurance-claim.ipynb
   "recommended_action": "Send adjuster on-site within 48 hours."
 }
 
-📬 Contact
-navurinv@gmail.com
+📬 **Contact**
+   - navurinv@gmail.com
 
-📄 License
+📄 **License**
 
