@@ -75,8 +75,8 @@ jupyter notebook insurance-claim.ipynb
 }
 
 ---
-📬 **Contact**
+## 📬 Contact
    - navurinv@gmail.com
 
-📄 **License**
+## 📄 License
 
