@@ -66,15 +66,13 @@ jupyter notebook insurance-claim.ipynb
 | 📝 Text    | "The storm knocked over the power lines and damaged the garage roof." |
 
 ➡️ **Output**:
-
-```json
 {
   "summary": "Severe roof and garage damage due to storm. Estimated repair cost: ₹45,000.",
   "status": "Pending human review",
   "recommended_action": "Send adjuster on-site within 48 hours."
-}```
+}
 
----
+
 ## 📬 Contact
    - navurinv@gmail.com
 
